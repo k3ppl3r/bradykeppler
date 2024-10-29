@@ -5,9 +5,9 @@ This repository contains several markdown pages that explore topics. Each page s
 ## Pages
 
 - [SuperBowl LVIII](https://en.wikipedia.org/wiki/Super_Bowl_LVIII)
-- [Vitamins and Their Roles](page2.md)
-- [Exercise for Love Handles](page3.md)
-- [Favorite Recipes](page4.md)
+- [Workout Planner](https://madmuscles.com)
+- [World Series Winner 1903-2024](https://www.espn.com/mlb/worldseries/history/winners)
+- [Mizzou Facts](https://missouri.edu/about/facts)
 
 ## Visiting
 
